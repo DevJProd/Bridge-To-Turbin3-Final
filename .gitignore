@@ -1,0 +1,11 @@
+# Node modules directory
+node_modules/
+
+
+# Private key from the wallet generated for the homework 
+dev-wallet.json
+
+# Build output directories (e.g., for TypeScript compilation)
+dist/
+build/
+out/
